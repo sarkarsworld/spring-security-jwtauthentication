@@ -12,7 +12,6 @@ import java.security.KeyStore;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-@Component
 public class JwtResponse {
 
     private String token;

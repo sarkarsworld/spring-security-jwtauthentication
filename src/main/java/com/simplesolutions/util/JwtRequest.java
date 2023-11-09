@@ -8,7 +8,6 @@ import org.springframework.stereotype.Component;
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
-@Component
 public class JwtRequest {
 
     private String username;
